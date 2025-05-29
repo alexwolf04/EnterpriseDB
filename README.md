@@ -1,6 +1,6 @@
 # EnterpriseDB
 
-EnterpriseDB is an advanced company database schema implemented in Microsoft SQL Server.  
+EnterpriseDB is an advanced company database schema implemented in SSMS.  
 It models core business entities such as employees, departments, projects, performance reviews, salary history, and time-off requests. This project demonstrates key database design concepts including:
 
 - Relational schema design with primary and foreign keys  
